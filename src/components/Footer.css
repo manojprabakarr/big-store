@@ -1,0 +1,21 @@
+.main-footer{
+    position: relative;
+    margin-top: 10px;
+    bottom: 0%;
+    width: 100%;
+    left: 0%;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+#link002{
+    color: black;
+    text-decoration:none;
+}
+#link002:hover,#link003:hover{
+  color:darkblue;
+}
+#link003{
+    color: black;
+    font-size: x-large;
+}

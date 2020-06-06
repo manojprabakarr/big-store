@@ -1,0 +1,62 @@
+.sell{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    
+}
+#link5{
+    text-decoration: none;
+    color: black ;
+    float: right;
+}
+    
+.container{
+    margin-top: 50px;
+}
+.sell h4,h6{
+    text-align: center;
+}
+.sell h4{
+    font-weight: 400;
+    font-size: xx-large;
+}
+.sell h6{
+    color: red;
+    font-size: large;
+}
+
+.form1{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 8px;
+}
+.form1 h5{
+    text-align: center;
+    color: lightblue;
+}
+.form1 h5:hover{
+    color: darkseagreen;
+}
+#btn1{
+   color: black;
+   background-color: lightblue;
+   border: 1px solid;
+   border-radius: 8px;
+ 
+}
+
+#link4{
+    color: black;
+    margin-left: 10px;
+    text-decoration: none;
+}
+#btn1:hover{
+
+    background-color: darkseagreen;
+    
+}
+#link4:hover,#link5:hover{
+    color: darkslateblue;
+}

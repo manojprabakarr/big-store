@@ -1,0 +1,46 @@
+.Login{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.Login h4{
+    text-align: center;
+    font-weight: 400;
+}
+.Login h6{
+    color: red;
+    text-align: center;
+}
+
+.manoj h5{
+    text-align: center;
+    color: lightblue;
+    
+}
+.manoj h5:hover{
+    color: darkseagreen;
+}
+#btn5{
+    border: 1px solid;
+    border-radius: 8px;
+    color: black;
+    background-color: lightblue;
+
+}
+#btn5:hover{
+    background-color: darkseagreen;
+}
+#link7{
+    font-size: large;
+    color: black;
+    text-decoration:none;
+    margin-left: 15px;
+}
+#link8{
+    font-size: large;
+    color: black;
+    text-decoration: none;
+    margin-left: 35px;
+}
+#link7:hover,#link8:hover{
+    color: navy;
+}

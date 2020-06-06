@@ -1,0 +1,16 @@
+.content1 h4 {
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+    
+}
+.content1 h6{
+    text-align: center;
+    line-height: 1em;
+    color: red;
+}
+.main-content{
+    border-radius: 15px;
+} .content1 h6:hover{
+    color: greenyellow
+}
